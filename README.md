@@ -1,1 +1,1 @@
-# Lexical-Knowledge-Based-Grammar-Error-Correction
+# Syntactic-Knowledge-Based-Grammar-Error-Correction
